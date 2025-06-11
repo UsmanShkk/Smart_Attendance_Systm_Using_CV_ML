@@ -43,8 +43,4 @@ Manual attendance is slow, error-prone, and inefficient. This system automates a
 
 ---
 
-## 🚀 How to Run
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
